@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-username.github.io/your-repo-name/sitemap.xml
+Sitemap:https://chevlikavya448-bot.github.io/Kavya-Chevli/sitemap.xml.
